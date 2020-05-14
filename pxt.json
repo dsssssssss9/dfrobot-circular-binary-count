@@ -1,0 +1,22 @@
+{
+    "name": "DFRobot Circular Binary Count",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "neopixel": "github:microsoft/pxt-neopixel#v0.6.12"
+    },
+    "files": [
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "pyprj",
+    "languageRestriction": "python-only"
+}
